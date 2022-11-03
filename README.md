@@ -2,7 +2,7 @@
 Predict stock prices using python
 
 tools needed:
-tensorflow\n
-scikit-learn\n
-matplotlib\n
+<p>tensorflow</p>
+scikit-learn
+matplotlib
 sklearn
